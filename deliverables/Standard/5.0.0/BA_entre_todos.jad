@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+MIDlet-Jar-Size: 285987
+RIM-COD-URL-2: BA_entre_todos-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: BA entre todos.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_xml_org,net_rim_bbapi_invoke,net_rim_locationapi,net_rim_os,net_rim_xml
+RIM-COD-SHA1-2: 77 ae 0f 64 e9 22 6c bc ae b2 38 83 ae 27 0a 25 05 0b 7e f0
+RIM-COD-URL-1: BA_entre_todos-1.cod
+RIM-COD-SHA1-1: fc 61 1d 21 ae b2 d3 8c 24 03 48 21 43 54 0b f1 c3 6e a1 55
+RIM-COD-Size-2: 3616
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 60552
+RIM-COD-Module-Name: BA_entre_todos
+MIDlet-Name: BA entre todos
+RIM-COD-Size: 57656
+RIM-COD-Creation-Time: 1336861397
+MIDlet-1: BA entre todos,image/descarga.jpg,
+RIM-COD-URL: BA_entre_todos.cod
+RIM-COD-SHA1: e2 dc 11 fc bd c7 7f c5 33 cd 20 ca 89 0f 49 b3 5d 05 9d 10
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: BlackBerry Developer

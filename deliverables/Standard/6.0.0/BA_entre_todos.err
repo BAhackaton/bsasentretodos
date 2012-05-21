@@ -1,0 +1,1 @@
+C:\Eclipse3.6BB\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.30\components\lib\net_rim_api.jar(net_rim_json_org.cod): Error!: Duplicate definition for 'org.json.me.JSONArray' found in: P:\PEG\bb\core\coreBB\commons-core\src\main\java\org\json\me\JSONArray.java
